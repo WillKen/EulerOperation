@@ -31,3 +31,5 @@ Switch solids:  Enter / click the right button
 第一行表示sweeping向量（x, y, z）以及距离 d
 
 接下来依次是点的坐标（x, y, z）以及环的标记（0是外环，1，2，3等是内环）
+
+演示视频地址：https://www.bilibili.com/video/BV1Br4y1k7PK?spm_id_from=333.999.0.0
