@@ -1,8 +1,6 @@
-**EulerOperation-张伟焜**
+**EulerOperation**
 
-**Created by Weikun Zhang 22121269**
-
-联系邮箱：zhangwk AT zju.edu.cn
+**Created by Willken**
 
 编译运行环境：macOS Monterey 版本12.0.1  芯片：Apple M1
 
